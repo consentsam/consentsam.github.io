@@ -20,6 +20,13 @@ sections:
   match: "**/*"
   templates:
   - blog
+- type: directory
+  path: content/pages
+  label: Pages
+  create: documents
+  match: "**/*"
+  templates:
+  - pages
 - type: heading
   label: CONFIG
 - type: document
