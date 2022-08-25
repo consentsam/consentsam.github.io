@@ -1,13 +1,19 @@
 ---
-title: "How to hire a developer straight out of bootcamp — without getting burned"
-description: "There’s a worldwide talent shortage in software development, and nearly one-third of hiring managers have hired someone from a coding bootcamp to help fill the void. 72% say bootcamp graduates are just as good or better than other hires, but 28% feel they are not equipped to handle their jobs."
-image: "/images/blog/07.jpg"
-date: "2021-11-15T11:35:57+06:00"
-author: "Chris Impey"
-categories: ["Tech"]
-tags: ["Lifestyle", "Startups"]
----
+title: How to hire a developer straight out of bootcamp — without getting burned
+description: There’s a worldwide talent shortage in software development, and nearly
+  one-third of hiring managers have hired someone from a coding bootcamp to help fill
+  the void. 72% say bootcamp graduates are just as good or better than other hires,
+  but 28% feel they are not equipped to handle their jobs.
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/dev_qi7q4m.webp
+date: 2021-11-15T11:35:57+06:00
+author: content/author/chris-impey.md
+categories:
+- Tech
+tags:
+- Lifestyle
+- Startups
 
+---
 There’s a worldwide talent shortage in software development, and nearly one-third of hiring managers have hired someone from a coding bootcamp to help fill the void. 72% say bootcamp graduates are just as good or better than other hires, but 28% feel they are not equipped to handle their jobs.
 
 Considering coding bootcamps graduated more than 23,000 students in 2019, there are likely thousands who entered the workforce unprepared last year.
