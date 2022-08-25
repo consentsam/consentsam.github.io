@@ -3,7 +3,7 @@ label: Nav Link
 hide_body: true
 display_field: text
 fields:
-- name: url
+- name: link
   type: text
   config:
     required: true
