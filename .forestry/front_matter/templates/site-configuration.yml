@@ -4,38 +4,54 @@ hide_body: true
 fields:
 - type: field_group
   name: metaData
-  label: metaData
+  label: Meta Data
   fields:
   - type: text
     name: title
-    label: title
+    label: Title
+    config:
+      required: true
   - type: text
     name: description
-    label: description
+    label: Description
+    config:
+      required: true
   - type: text
     name: author
-    label: author
+    label: Author
+    config:
+      required: true
   - type: text
     name: keyword
-    label: keyword
+    label: Keyword
+    config:
+      required: true
   - type: file
     name: ogImage
     label: ogImage
 - type: text
   name: baseURL
-  label: baseURL
+  label: Base URL
+  config:
+    required: true
 - type: file
   name: logo
-  label: logo
+  label: Logo
 - type: text
   name: logoText
-  label: logoText
+  label: Logo Text
+  config:
+    required: true
 - type: file
   name: favicon
-  label: favicon
+  label: Favicon
 - type: number
   name: postPerPage
-  label: postPerPage
+  label: Posts Per Page
+  config:
+    required: true
+    step: 1
+    min: 1
 - type: text
   name: copyright
-  label: copyright
+  label: Copyright
