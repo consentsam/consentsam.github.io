@@ -1,13 +1,16 @@
 ---
-title: "Everything you wanted to know about the metaverse"
-description: "In the wake of Facebook rebranding as Meta, reflecting its focus on the “metaverse”, Microsoft has now announced it, too, will launch into this space."
-image: "/images/blog/04.jpg"
-date: "2021-11-16T16:56:47+06:00"
-author: "Emma Hazel"
-categories: ["Earth"]
-tags: ["Life"]
----
+title: Everything you wanted to know about the metaverse
+description: In the wake of Facebook rebranding as Meta, reflecting its focus on the
+  “metaverse”, Microsoft has now announced it, too, will launch into this space.
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/vr_iavgze.webp
+date: ! '"2021-11-16"'
+author: content/author/emma-hazel.md
+categories:
+- Earth
+tags:
+- Life
 
+---
 In the wake of Facebook rebranding as Meta, reflecting its focus on the “metaverse”, Microsoft has now announced it, too, will launch into this space.
 
 Meta has proposed that the metaverse will eventually allow us to engage across education, work and social contexts, while Microsoft looks to be focusing specifically on the realm of the virtual office for now.
