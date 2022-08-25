@@ -22,11 +22,11 @@ const RecentPosts = ({ section, posts, authors }) => {
 
         <div className="col-12 text-center">
           <Link href={`/blog`}>
-            <a className="btn btn-primary mt-5" aria-label={section.buttonText}>
+            <a className="btn btn-primary mt-5" aria-label="View All Posts">
               <i className="me-2">
                 <IconNewSection size={16} />
               </i>
-              {section.buttonText}
+              View All Posts
             </a>
           </Link>
         </div>

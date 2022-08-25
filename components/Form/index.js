@@ -6,12 +6,12 @@ import { IconBrandTelegram } from "@tabler/icons";
 const Form = ({ form }) => {
   return (
     <div className="col-lg-5 me-lg-auto ms-lg-0 ms-auto">
-      <h2 className="h3 mb-4">Contact form</h2>
+      <h2 className="h3 mb-4">{form.title}</h2>
 
       <form
         className="row g-4"
-        action={form.action}
-        method={form.method}
+        action={`https://airform.io/${form.action}`}
+        method="POST"
         target="_blank"
       >
         {form?.fields &&

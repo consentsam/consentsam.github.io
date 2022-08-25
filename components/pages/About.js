@@ -20,9 +20,9 @@ const About = ({ section }) => {
         <div className="row g-4 justify-content-center text-center">
           {section.images.map((item, i) => {
             let grid_class;
-            if (item.size === "half") {
+            if (item.size === "Half") {
               grid_class = "col-lg-6";
-            } else if (item.size === "quarter") {
+            } else if (item.size === "Quarter") {
               grid_class = "col-lg-3 col-6";
             } else {
               grid_class = "col-lg-12";
