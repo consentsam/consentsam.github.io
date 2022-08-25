@@ -1,5 +1,68 @@
 {
   "mainMenu": [
-
+    {
+      "template": "nav-link",
+      "url": "/",
+      "text": "Home"
+    },
+    {
+      "template": "nav-link",
+      "url": "/about",
+      "text": "About"
+    },
+    {
+      "template": "nav-link",
+      "url": "/blog",
+      "text": "Blog"
+    },
+    {
+      "template": "nav-link",
+      "url": "/blog/archive",
+      "text": "Archive"
+    },
+    {
+      "template": "nav-dropdown",
+      "link": "#",
+      "name": "Pages",
+      "submenu": [
+        {
+          "url": "/author",
+          "text": "Author"
+        },
+        {
+          "url": "/author/chris-impey",
+          "text": "Author Single"
+        },
+        {
+          "url": "/blog/elements",
+          "text": "Elements"
+        },
+        {
+          "url": "/tags",
+          "text": "Tags"
+        },
+        {
+          "url": "/categories",
+          "text": "Categories"
+        },
+        {
+          "text": "Categories Single",
+          "url": "/categories/ai"
+        },
+        {
+          "url": "/tags/machine",
+          "text": "Tags Single"
+        },
+        {
+          "url": "/privacy",
+          "text": "Privacy"
+        }
+      ]
+    },
+    {
+      "template": "nav-link",
+      "url": "/contact",
+      "text": "Contact"
+    }
   ]
 }
