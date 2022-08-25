@@ -22,11 +22,12 @@ fields:
   type: blocks
   label: Sections
   template_types:
-  - banner
-  - page-header
   - about
-  - writers
+  - banner
+  - contact
+  - page-header
   - recent-posts
+  - writers
   config:
     min: 1
     max: 
