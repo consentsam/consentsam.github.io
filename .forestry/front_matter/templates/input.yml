@@ -77,7 +77,7 @@ fields:
       config:
         required: false
       label: Message
-      default: Too few characters.
+      default: Not long enough.
     label: Min Length
   - name: maxLength
     type: field_group
