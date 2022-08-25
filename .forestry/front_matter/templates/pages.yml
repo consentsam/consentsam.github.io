@@ -23,6 +23,8 @@ fields:
   label: Sections
   template_types:
   - banner
+  - page-header
+  - about
   config:
     min: 1
     max: 
