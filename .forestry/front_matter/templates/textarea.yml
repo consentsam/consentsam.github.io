@@ -1,0 +1,62 @@
+---
+label: Textarea
+hide_body: true
+display_field: name
+fields:
+- name: name
+  type: text
+  config:
+    required: true
+    max: 255
+  label: Name
+- name: placeholder
+  type: text
+  config:
+    required: true
+    max: 255
+  label: Placeholder
+- name: id
+  type: text
+  config:
+    required: true
+  label: ID
+- name: config
+  type: field_group
+  config: {}
+  fields:
+  - name: required
+    type: boolean
+    label: Required
+    default: true
+  - name: minimum
+    type: number
+    label: Minimum
+    description: The minimum length or value for an input field.
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 1
+  - name: maximum
+    type: number
+    label: Maximum
+    description: The maximum length or value for an input field.
+    default: 0
+    required: true
+    config:
+      min: 
+      max: 
+      step: 1
+  - name: rows
+    type: number
+    label: Rows
+    description: Number of rows the text area starts with.
+    default: 4
+    required: true
+    config:
+      min: 1
+      max: 
+      step: 1
+      required: true
+  label: Config
