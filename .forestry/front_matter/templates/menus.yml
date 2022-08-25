@@ -1,4 +1,13 @@
 ---
 label: Menus
 hide_body: true
-fields: []
+fields:
+- name: mainMenu
+  type: blocks
+  label: Main Menu
+  template_types:
+  - nav-link
+  - nav-dropdown
+  config:
+    min: 1
+    max: 
