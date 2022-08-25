@@ -2,7 +2,7 @@
 title: I work 5 hours a day, and I’ve never been more productive
 description: 'Something’s very wrong with the traditional 9 to 5: it doesn’t work.'
 image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/productivity_ugzudi.webp
-date: ! '"2020-08-11"'
+date: 2020-08-11
 author: content/author/chris-impey.md
 categories:
 - Tech
