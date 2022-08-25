@@ -39,15 +39,11 @@ fields:
       file: 
       path: 
   label: Author
-- type: list
-  name: categories
+- name: categories
+  type: tag_list
+  default: []
   label: Categories
-  config:
-    use_select: false
-    min: 1
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: Tags
-  config:
-    use_select: false
-    min: 1
