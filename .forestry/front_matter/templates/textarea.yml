@@ -81,4 +81,15 @@ fields:
         required: false
       label: Message
     label: Max Length
+  - name: rows
+    type: number
+    label: Rows
+    description: ''
+    default: 4
+    required: true
+    config:
+      min: 1
+      max: 
+      step: 1
+      required: true
   label: Configuration
