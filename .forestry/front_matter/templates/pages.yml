@@ -21,7 +21,8 @@ fields:
 - name: sections
   type: blocks
   label: Sections
-  template_types: []
+  template_types:
+  - banner
   config:
     min: 1
     max: 
