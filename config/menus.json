@@ -2,23 +2,23 @@
   "mainMenu": [
     {
       "template": "nav-link",
-      "url": "/",
-      "text": "Home"
+      "link": "/",
+      "name": "Home"
     },
     {
       "template": "nav-link",
-      "url": "/about",
-      "text": "About"
+      "link": "/about",
+      "name": "About"
     },
     {
       "template": "nav-link",
-      "url": "/blog",
-      "text": "Blog"
+      "link": "/blog",
+      "name": "Blog"
     },
     {
       "template": "nav-link",
-      "url": "/blog/archive",
-      "text": "Archive"
+      "link": "/blog/archive",
+      "name": "Archive"
     },
     {
       "template": "nav-dropdown",
@@ -26,43 +26,43 @@
       "name": "Pages",
       "submenu": [
         {
-          "url": "/author",
-          "text": "Author"
+          "link": "/author",
+          "name": "Author"
         },
         {
-          "url": "/author/chris-impey",
-          "text": "Author Single"
+          "link": "/author/chris-impey",
+          "name": "Author Single"
         },
         {
-          "url": "/blog/elements",
-          "text": "Elements"
+          "link": "/blog/elements",
+          "name": "Elements"
         },
         {
-          "url": "/tags",
-          "text": "Tags"
+          "link": "/tags",
+          "name": "Tags"
         },
         {
-          "url": "/categories",
-          "text": "Categories"
+          "link": "/categories",
+          "name": "Categories"
         },
         {
-          "text": "Categories Single",
-          "url": "/categories/ai"
+          "name": "Categories Single",
+          "link": "/categories/ai"
         },
         {
-          "url": "/tags/machine",
-          "text": "Tags Single"
+          "link": "/tags/machine",
+          "name": "Tags Single"
         },
         {
-          "url": "/privacy",
-          "text": "Privacy"
+          "link": "/privacy",
+          "name": "Privacy"
         }
       ]
     },
     {
       "template": "nav-link",
-      "url": "/contact",
-      "text": "Contact"
+      "link": "/contact",
+      "name": "Contact"
     }
   ]
 }
