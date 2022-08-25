@@ -33,3 +33,4 @@ fields:
     max: 
 pages:
 - content/pages/about.md
+- content/pages/contact.md
