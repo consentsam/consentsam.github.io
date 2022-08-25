@@ -60,5 +60,6 @@ sections:
       name: name
       id: name
       placeholder: Your full name
+    title: Contact form
 
 ---
