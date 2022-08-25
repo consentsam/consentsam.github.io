@@ -1,0 +1,41 @@
+---
+label: Site Configuration
+hide_body: true
+fields:
+- type: field_group
+  name: metaData
+  label: metaData
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: author
+    label: author
+  - type: text
+    name: keyword
+    label: keyword
+  - type: file
+    name: ogImage
+    label: ogImage
+- type: text
+  name: baseURL
+  label: baseURL
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: logoText
+  label: logoText
+- type: file
+  name: favicon
+  label: favicon
+- type: number
+  name: postPerPage
+  label: postPerPage
+- type: text
+  name: copyright
+  label: copyright
