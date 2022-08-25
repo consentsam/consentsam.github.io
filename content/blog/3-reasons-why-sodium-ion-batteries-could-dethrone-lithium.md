@@ -1,13 +1,18 @@
 ---
-title: "3 reasons why sodium-ion batteries may dethrone lithium"
-description: "Lithium-ion batteries have played a vital role in the development of electric vehicles and we love them for that. But at the same time, lithium is expensive to produce, unstable in high temperatures, and a finite resource whose mining often comes with supply chain problems."
-image: "/images/blog/01.jpg"
-date: "2019-01-10T16:56:47+06:00"
-author: "Emma Hazel"
-categories: ["AI"]
-tags: ["Machine"]
----
+title: 3 reasons why sodium-ion batteries may dethrone lithium
+description: Lithium-ion batteries have played a vital role in the development of
+  electric vehicles and we love them for that. But at the same time, lithium is expensive
+  to produce, unstable in high temperatures, and a finite resource whose mining often
+  comes with supply chain problems.
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661435753/lithium_yn5otb.webp
+date: ! '"2019-01-10"'
+author: content/author/emma-hazel.md
+categories:
+- AI
+tags:
+- Machine
 
+---
 Lithium-ion batteries have played a vital role in the development of electric vehicles and we love them for that. But at the same time, lithium is expensive to produce, unstable in high temperatures, and a finite resource whose mining often comes with supply chain problems.
 
 Battery researchers and manufacturers have been assiduously searching for a more sustainable replacement. One intriguing alternative they’ve discovered is another chemical element: sodium.
