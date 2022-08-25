@@ -3,22 +3,30 @@
     {
       "template": "nav-link",
       "url": "/",
-      "text": "Home"
+      "text": "Home",
+      "link": "/",
+      "name": "Home"
     },
     {
       "template": "nav-link",
       "url": "/about",
-      "text": "About"
+      "text": "About",
+      "link": "/about",
+      "name": "About"
     },
     {
       "template": "nav-link",
       "url": "/blog",
-      "text": "Blog"
+      "text": "Blog",
+      "link": "/blog",
+      "name": "Blog"
     },
     {
       "template": "nav-link",
       "url": "/blog/archive",
-      "text": "Archive"
+      "text": "Archive",
+      "link": "/blog/archive",
+      "name": "Archive"
     },
     {
       "template": "nav-dropdown",
@@ -27,42 +35,60 @@
       "submenu": [
         {
           "url": "/author",
-          "text": "Author"
+          "text": "Author",
+          "link": "/author",
+          "name": "Author"
         },
         {
           "url": "/author/chris-impey",
-          "text": "Author Single"
+          "text": "Author Single",
+          "link": "/author/chris-impey",
+          "name": "Author Single"
         },
         {
           "url": "/blog/elements",
-          "text": "Elements"
+          "text": "Elements",
+          "link": "/blog/elements",
+          "name": "Elements"
         },
         {
           "url": "/tags",
-          "text": "Tags"
+          "text": "Tags",
+          "link": "/tags",
+          "name": "Tags"
         },
         {
           "url": "/categories",
-          "text": "Categories"
-        },
-        {
-          "text": "Categories Single",
-          "url": "/categories/ai"
+          "text": "Categories",
+          "link": "/categories",
+          "name": "Categories"
         },
         {
           "url": "/tags/machine",
-          "text": "Tags Single"
+          "text": "Tags Single",
+          "link": "/tags/machine",
+          "name": "Tags Single"
+        },
+        {
+          "text": "Categories Single",
+          "url": "/categories/ai",
+          "link": "/categories/ai",
+          "name": "Categories Single"
         },
         {
           "url": "/privacy",
-          "text": "Privacy"
+          "text": "Privacy",
+          "link": "/privacy",
+          "name": "Privacy"
         }
       ]
     },
     {
       "template": "nav-link",
       "url": "/contact",
-      "text": "Contact"
+      "text": "Contact",
+      "link": "/contact",
+      "name": "Contact"
     }
   ]
 }
