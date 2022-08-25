@@ -12,7 +12,8 @@ fields:
 - name: fields
   type: blocks
   label: Fields
-  template_types: []
+  template_types:
+  - input
   config:
     min: 1
     max: 
