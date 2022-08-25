@@ -11,11 +11,15 @@ sections:
   label: Authors
   create: documents
   match: "**/*"
+  templates:
+  - author
 - type: directory
   path: content/blog
   label: Blog
   create: documents
   match: "**/*"
+  templates:
+  - blog
 - type: heading
   label: CONFIG
 - type: document
