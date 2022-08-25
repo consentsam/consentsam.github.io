@@ -1,13 +1,18 @@
 ---
-title: "The AGI hype train is running out of steam"
-description: "While futurists and fundraisers used to make bullish predictions about artificial general intelligence, they’ve become quieter lately. Peter Thiel — the tech billionaire and rumored vampire — says Silicon Valley big brains have lost enthusiasm for AGI."
-image: "/images/blog/02.jpg"
-date: "2021-12-05T11:35:57+06:00"
-author: "Thomas Macaulay"
-categories: ["AI"]
-tags: ["Machine"]
----
+title: The AGI hype train is running out of steam
+description: While futurists and fundraisers used to make bullish predictions about
+  artificial general intelligence, they’ve become quieter lately. Peter Thiel — the
+  tech billionaire and rumored vampire — says Silicon Valley big brains have lost
+  enthusiasm for AGI.
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/train_ziqjwr.webp
+date: 2021-12-05T11:35:57+06:00
+author: content/author/thomas-macaulay.md
+categories:
+- AI
+tags:
+- Machine
 
+---
 ### The AGI hype train has hit some heavy traffic.
 
 While futurists and fundraisers used to make bullish predictions about artificial general intelligence, they’ve become quieter lately. Peter Thiel — the tech billionaire and rumored vampire — says Silicon Valley big brains have lost enthusiasm for AGI.
