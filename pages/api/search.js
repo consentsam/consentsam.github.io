@@ -1,4 +1,5 @@
 /* eslint-disable import/no-anonymous-default-export */
+import { formatAuthorName } from "@/libs/formatAuthorName";
 import fs from "fs";
 import matter from "gray-matter";
 import path from "path";
@@ -24,7 +25,10 @@ export default (req, res) => {
 
       return {
         slug,
-        frontMatter,
+        frontMatter: {
+          ...frontMatter,
+          author: formatAuthorName(frontMatter.author),
+        },
       };
     });
   }

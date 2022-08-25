@@ -1,6 +1,7 @@
 import Layout from "@/components/Layout";
 import useScripts from "@/components/Scripts";
 import siteConfig from "@/config/site.config.json";
+import { formatAuthorName } from "@/libs/formatAuthorName";
 import { getAuthors } from "@/libs/getAuthors";
 import { formatDate } from "@/utils/formatDate";
 import { readingTime } from "@/utils/readingTime";
@@ -286,7 +287,10 @@ export async function getStaticProps({ params: { slug } }) {
   return {
     props: {
       slug,
-      frontMatter,
+      frontMatter: {
+        ...frontMatter,
+        author: formatAuthorName(frontMatter.author),
+      },
       content,
       authors: getAuthors(),
     },
