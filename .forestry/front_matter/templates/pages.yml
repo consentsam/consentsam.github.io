@@ -1,0 +1,32 @@
+---
+label: Pages
+hide_body: true
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+    max: 255
+  label: Title
+- name: description
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Description
+- name: sections
+  type: blocks
+  label: Sections
+  template_types:
+  - banner
+  - page-header
+  - about
+  - writers
+  - recent-posts
+  config:
+    min: 1
+    max: 

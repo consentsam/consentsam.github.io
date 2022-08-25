@@ -1,0 +1,20 @@
+---
+label: Form
+hide_body: true
+display_field: action
+fields:
+- name: action
+  type: text
+  config:
+    required: true
+  label: Email
+  description: What email address do you want the form to send an email to?
+- name: fields
+  type: blocks
+  label: Fields
+  template_types:
+  - input
+  config:
+    min: 1
+    max: 
+  description: What information do you want to collect?

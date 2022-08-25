@@ -22,7 +22,7 @@ const About = ({ section }) => {
             let grid_class;
             if (item.size === "half") {
               grid_class = "col-lg-6";
-            } else if (item.size === "third") {
+            } else if (item.size === "quarter") {
               grid_class = "col-lg-3 col-6";
             } else {
               grid_class = "col-lg-12";

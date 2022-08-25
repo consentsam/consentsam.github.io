@@ -1,0 +1,11 @@
+---
+label: Recent Posts
+hide_body: true
+display_field: title
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  default: Recent Posts
