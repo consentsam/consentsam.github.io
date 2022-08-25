@@ -1,8 +1,15 @@
 ---
 label: Form
 hide_body: true
-display_field: action
+display_field: title
 fields:
+- name: title
+  type: text
+  config:
+    required: true
+    max: 255
+  label: Title
+  default: Contact Form
 - name: action
   type: text
   config:
