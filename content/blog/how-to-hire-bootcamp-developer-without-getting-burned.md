@@ -5,7 +5,7 @@ description: There’s a worldwide talent shortage in software development, and 
   the void. 72% say bootcamp graduates are just as good or better than other hires,
   but 28% feel they are not equipped to handle their jobs.
 image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/dev_qi7q4m.webp
-date: ! '"2021-11-15"'
+date: 2021-11-15
 author: content/author/chris-impey.md
 categories:
 - Tech
