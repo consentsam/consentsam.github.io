@@ -25,6 +25,7 @@ fields:
   - about
   - banner
   - contact
+  - detail
   - page-header
   - recent-posts
   - writers
