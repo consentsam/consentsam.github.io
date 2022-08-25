@@ -27,11 +27,18 @@ fields:
     export_format: '"YYYY-MM-DD"'
     required: true
   default: now
-- type: text
-  name: author
-  label: Author
+- name: author
+  type: select
+  default: []
   config:
     required: true
+    options: []
+    source:
+      type: pages
+      section: authors
+      file: 
+      path: 
+  label: Author
 - type: list
   name: categories
   label: Categories
