@@ -2,6 +2,7 @@ import { sortByDate } from "@/utils/sortByDate";
 import fs from "fs";
 import matter from "gray-matter";
 import path from "path";
+import { formatAuthorName } from "./formatAuthorName";
 
 const blogDirFiles = fs.readdirSync(path.join("content/blog"));
 const blogs = blogDirFiles.filter((f) => f.includes(".md"));
@@ -18,7 +19,10 @@ export function getPosts() {
 
     return {
       slug,
-      frontMatter,
+      frontMatter: {
+        ...frontMatter,
+        author: formatAuthorName(frontMatter.author),
+      },
       content,
     };
   });
