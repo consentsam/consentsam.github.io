@@ -1,13 +1,17 @@
 ---
-title: "Why everyone is talking about ‘green steel’ at COP26"
-description: "Among the rhetoric of climate change bingo and platitudes, there’s a term I’ve been hearing a lot at COP26 this week — green steel. But what is it, why does it matter, and what does it actually mean for us, the consumers and end-users?"
-image: "/images/blog/06.jpg"
-date: "2020-09-14T16:56:47+06:00"
-author: "Thomas Macaulay"
-categories: ["Earth"]
-tags: ["Lifestyle"]
----
+title: Why everyone is talking about ‘green steel’ at COP26
+description: Among the rhetoric of climate change bingo and platitudes, there’s a
+  term I’ve been hearing a lot at COP26 this week — green steel. But what is it, why
+  does it matter, and what does it actually mean for us, the consumers and end-users?
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/cop26_hsvafk.webp
+date: 2020-09-14T16:56:47+06:00
+author: content/author/thomas-macaulay.md
+categories:
+- Earth
+tags:
+- Lifestyle
 
+---
 Among the rhetoric of climate change bingo and platitudes, there’s a term I’ve been hearing a lot at COP26 this week — green steel. But what is it, why does it matter, and what does it actually mean for us, the consumers and end-users? 
 
 The global steel industry is one of the world’s largest emitters of carbon dioxide, representing approximately 7% of global CO2 emissions. Demand for fossil-free steel is growing substantially with solid interest from global market leaders in automotive, commercial vehicles, white goods, furniture, etc. And the most significant noise is therefore around “green steel”.
