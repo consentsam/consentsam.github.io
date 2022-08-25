@@ -1,4 +1,18 @@
 ---
 label: Nav Link
 hide_body: true
-fields: []
+display_field: text
+fields:
+- name: url
+  type: text
+  config:
+    required: true
+    max: 
+  label: URL
+  default: "/"
+- name: text
+  type: text
+  config:
+    required: true
+    max: 55
+  label: Display Text
