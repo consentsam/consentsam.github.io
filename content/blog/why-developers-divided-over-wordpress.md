@@ -1,13 +1,18 @@
 ---
-title: "Why developers are so divided over WordPress"
-description: "After seeing WordPress top the most dreaded platform on Stack Overflow’s Developer Survey for two years in a row (2019 and 2020), a few weeks ago we explored why developers hate using the CMS."
-image: "/images/blog/09.jpg"
-date: "2020-10-12T16:56:47+06:00"
-author: "Thomas Macaulay"
-categories: ["Tech"]
-tags: ["Work", "Lifestyle"]
----
+title: Why developers are so divided over WordPress
+description: After seeing WordPress top the most dreaded platform on Stack Overflow’s
+  Developer Survey for two years in a row (2019 and 2020), a few weeks ago we explored
+  why developers hate using the CMS.
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/wordpress_bohihe.webp
+date: ! '"2020-10-11"'
+author: content/author/thomas-macaulay.md
+categories:
+- Tech
+tags:
+- Work
+- Lifestyle
 
+---
 After seeing WordPress top the most dreaded platform on Stack Overflow’s Developer Survey for two years in a row (2019 and 2020), a few weeks ago we explored why developers hate using the CMS.
 
 Interestingly enough, we ended up getting some impassioned responses from developers who love WordPress. Just visit some of the many Quora and Reddit threads about the CMS and you’ll find die-hard WordPress haters and lovers battling it out.
