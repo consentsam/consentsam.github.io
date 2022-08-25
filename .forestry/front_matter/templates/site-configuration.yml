@@ -1,6 +1,7 @@
 ---
 label: Site Configuration
 hide_body: true
+display_field: logoText
 fields:
 - type: field_group
   name: metaData
