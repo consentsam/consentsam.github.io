@@ -25,6 +25,8 @@ fields:
   - banner
   - page-header
   - about
+  - writers
+  - recent-posts
   config:
     min: 1
     max: 
