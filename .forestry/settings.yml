@@ -21,11 +21,9 @@ sections:
 - type: document
   path: config/site.config.json
   label: Site Config
-  match: "**/*"
 - type: document
   path: config/menus.json
   label: Menus
-  match: "**/*"
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
