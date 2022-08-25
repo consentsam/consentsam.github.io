@@ -6,7 +6,7 @@ description: Light is fast. In fact, it is the fastest thing that exists, and a 
   Moon in just over a second. Light can streak from Los Angeles to New York in less
   than the blink of an eye.
 image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/blub_m5p5es.webp
-date: ! '"2021-11-17"'
+date: 2021-11-17
 author: content/author/chris-impey.md
 categories:
 - Earth
