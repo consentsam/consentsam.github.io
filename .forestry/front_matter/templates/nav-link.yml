@@ -1,16 +1,16 @@
 ---
 label: Nav Link
 hide_body: true
-display_field: text
+display_field: name
 fields:
-- name: url
+- name: link
   type: text
   config:
     required: true
     max: 
   label: URL
   default: "/"
-- name: text
+- name: name
   type: text
   config:
     required: true

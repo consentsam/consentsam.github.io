@@ -54,6 +54,18 @@
           "name": "Tags Single"
         },
         {
+          "link": "/categories",
+          "name": "Categories"
+        },
+        {
+          "link": "/tags/machine",
+          "name": "Tags Single"
+        },
+        {
+          "link": "/categories/ai",
+          "name": "Categories Single"
+        },
+        {
           "link": "/privacy",
           "name": "Privacy"
         }
