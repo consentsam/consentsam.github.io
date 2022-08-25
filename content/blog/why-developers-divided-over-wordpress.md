@@ -4,7 +4,7 @@ description: After seeing WordPress top the most dreaded platform on Stack Overf
   Developer Survey for two years in a row (2019 and 2020), a few weeks ago we explored
   why developers hate using the CMS.
 image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661184887/wordpress_bohihe.webp
-date: ! '"2020-10-12"'
+date: 2020-10-12
 author: content/author/thomas-macaulay.md
 categories:
 - Tech
