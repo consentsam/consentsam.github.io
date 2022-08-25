@@ -11,3 +11,5 @@ fields:
   config:
     min: 1
     max: 
+pages:
+- config/menus.json
