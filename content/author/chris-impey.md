@@ -1,6 +1,7 @@
 ---
-title: "Chris Impey"
-image: "/images/author/chris-impey.jpg"
+title: Chris Impey
+image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661447177/chris-impey_gvtnm5.webp
+
 ---
 Chris Impey is a writer based in New York City. He's interested in all things tech, science, and photography related, and likes to yo-yo in his free time.
 
