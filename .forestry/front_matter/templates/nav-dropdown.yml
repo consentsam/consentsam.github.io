@@ -28,5 +28,5 @@ fields:
   config:
     min: 1
     max: 
-    labelField: text
+    labelField: name
   label: Sub Menu
