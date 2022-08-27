@@ -6,7 +6,7 @@
     "keyword": "qurno, minimal, react, nextjs, blog, template",
     "ogImage": "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
   },
-  "baseURL": "https://qurno-nextjs.vercel.app/",
+  "baseURL": "https://qurno.preview.antonionardini.com/",
   "logo": "https://res.cloudinary.com/antonio-nardini/image/upload/v1661166113/logo_mz8jua.png",
   "logoText": "Qurno",
   "favicon": "https://res.cloudinary.com/antonio-nardini/image/upload/v1661166119/favicon_kiwban.png",
