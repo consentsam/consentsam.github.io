@@ -42,24 +42,12 @@
           "name": "Tags"
         },
         {
-          "link": "/categories",
-          "name": "Categories"
-        },
-        {
-          "name": "Categories Single",
-          "link": "/categories/ai"
-        },
-        {
           "link": "/tags/machine",
           "name": "Tags Single"
         },
         {
           "link": "/categories",
           "name": "Categories"
-        },
-        {
-          "link": "/tags/machine",
-          "name": "Tags Single"
         },
         {
           "link": "/categories/ai",
