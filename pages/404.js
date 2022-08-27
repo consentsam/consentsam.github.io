@@ -1,26 +1,19 @@
+import ErrorPage from "@/components/ErrorPage";
 import Layout from "@/components/Layout";
-import Link from "next/link";
+
+const error_data = {
+  title: "404",
+  desc: "Oops. The page you're looking for doesn't exist.",
+  button: {
+    link: "/",
+    text: "Back to home",
+  },
+};
 
 export default function PageNotFound() {
   return (
     <Layout metaTitle={"Page Not Found"}>
-      <section className="section-sm pb-0">
-        <div className="container">
-          <div className="row">
-            <div className="col-12">
-              <div className="text-center">
-                <h1 className="page-not-found-title">404</h1>
-                <p className="mb-4">
-                  Oops. The page you're looking for doesn't exist.
-                </p>
-                <Link href="/">
-                  <a className="btn btn-primary">Back to home</a>
-                </Link>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
+      <ErrorPage error={error_data} />
     </Layout>
   );
 }
