@@ -14,8 +14,7 @@ sections:
     width: '720'
     height: '720'
     size: Half
-- template: writers
-  title: Our Writers
+
 
 ---
 
