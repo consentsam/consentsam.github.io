@@ -1,48 +1,40 @@
 ---
-title: 3 reasons why sodium-ion batteries may dethrone lithium
-description: Lithium-ion batteries have played a vital role in the development of
-  electric vehicles and we love them for that. But at the same time, lithium is expensive
-  to produce, unstable in high temperatures, and a finite resource whose mining often
-  comes with supply chain problems.
-image: https://res.cloudinary.com/antonio-nardini/image/upload/v1661435753/lithium_yn5otb.webp
-date: "2019-01-10"
-author: content/author/emma-hazel.md
+title: Can we download Bitcoin Blocks faster with Torrent?
+description: This blog summaries a experiment to check whether bitcoin blocks can be downloaded faster with torrent?
+image: https://s3.us-east-2.amazonaws.com/blog-files-isattu.com/bitcoin-torrent.jpeg
+date: "2022-04-02"
+author: content/author/satyajeet-sindhiyani.md
 categories:
-- AI
+- Blockchain
 tags:
-- Machine
+- Bitcoin
 
 ---
-Lithium-ion batteries have played a vital role in the development of electric vehicles and we love them for that. But at the same time, lithium is expensive to produce, unstable in high temperatures, and a finite resource whose mining often comes with supply chain problems.
 
-Battery researchers and manufacturers have been assiduously searching for a more sustainable replacement. One intriguing alternative they’ve discovered is another chemical element: sodium.
+## Context
+
+Today, when I was reading [Greg Walker](https://learnmeabitcoin.com/about) 's blog to understand some basics about Bitcoin and there I saw this line
+
+> Once you have downloaded and verified the full blockchain **(currently 389.74 GB)**, you can start making your own transactions, which propagate the network and are written to the blockchain on everyone’s computer.
+
+So, out of curiosity I went to download the [Bitcoin-core app](https://bitcoin.org/en/download) and when the blockchain data started to download, I was stunned to see that it will take my computer around 4 days just to download the whole blockchain data before I can start doing anything.
 
 
-### The reason some bootcamp grads are set up to fail
-* In my experience, not all bootcamps are created equal. They vary widely in acceptance processes, curriculum, program structure, and quality of instructors. They’re designed to push candidates through courses that will have them writing some code fairly quickly.
 
-* As a result, programs are forced to strip away a lot of fundamentals — those basics that help developers understand the “why” behind the code they’re writing.
+![Blockchain Data Download 4 Days](https://s3.us-east-2.amazonaws.com/blog-files-isattu.com/block_download_four_days.png)
 
-* When young software developers learn by copying and pasting, it can make troubleshooting difficult when they come across something that doesn’t fit the pattern they’re used to.
+This is unacceptable to me since I am on 100 Mbps internet plan. It should have taken at max 1-1.5 days to download the whole data but it is way too much.Then I wondered whether we can do anything to fasttrack this process.
 
-* Small businesses and startups are those most likely to hire developers without degrees, but I’ve seen too many bootcamp grads take jobs at startups only to find they haven’t learned enough to make any real impact.
 
-### 1. Look for bootcamp grads with personal projects
-The best bootcamp grads are those who already considered themselves hobbyists. They didn’t enter a program expecting to learn everything they needed to know in 12 weeks.
+## Idea
 
-They were already passionate about software development and enrolled in a bootcamp for some structure and guidance, and to level up their skills.
+Why do not I download the whole data from torrent and then keep that data into the correct bitcoin directory to fast track this process? 
 
-### 2. Adjust your interview process to test for fundamentals
-Because bootcamps are, by nature, time-constrained programs, some will blow right past the heavy lifting of helping developers understand why things work the way they do.
 
-The result is that some graduates come out of bootcamps using pattern recognition as their primary skill and an understanding of how to get by with copying and pasting code.
+## Issue
 
-### 3. Hire natural problem solvers and nurture their intellectual curiosity
-All engineering is problem-solving. Junior developers won’t be architecting anything right away, but you should look for people who show a predilection for understanding the problem they’re trying to solve and evaluating potential paths forward.
+After reading some reading articles on the same, I came to know that even after we do that, it won't fasten the process.
 
-Even when your newest developers are working as order takers, they should be thinking critically about why those orders are issued. A good mentor can help initiate those conversations about the “why” behind each assignment and help new hires see what they might be missing.
+## Why?
 
-### 4. Set new hires up for success with appropriate oversight
-If you’re hiring someone fresh out of bootcamp, don’t expect them to come in and start developing complex applications by themselves. Most bootcamp grads have never worked in a real-world programming environment before, and you can’t expect them to be self-directed from day one.
-
-You need a strong new-hire onboarding process and support system that makes new hires feel comfortable asking questions and continuing to learn.
+We cannot do much faster than that because it is not the download that is taking so long, it is the **verification/validation** of the blocks that is taking a lot of time. Moreover, Bitcoin-core is a P2P software, it already implements the same technology that torrent implements to download the files. So, the time taken will be same in both the cases.

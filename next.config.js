@@ -1,6 +1,6 @@
 const nextConfig = {
     images: {
-        domains: ["res.cloudinary.com"]
+        domains: ["s3.us-east-2.amazonaws.com","res.cloudinary.com"]
     }
 }
 

@@ -26,16 +26,8 @@
       "name": "Pages",
       "submenu": [
         {
-          "link": "/author",
+          "link": "/author/satyajeet-sindhiyani",
           "name": "Author"
-        },
-        {
-          "link": "/author/chris-impey",
-          "name": "Author Single"
-        },
-        {
-          "link": "/blog/elements",
-          "name": "Elements"
         },
         {
           "link": "/tags",
@@ -44,18 +36,6 @@
         {
           "link": "/categories",
           "name": "Categories"
-        },
-        {
-          "link": "/tags/machine",
-          "name": "Tags Single"
-        },
-        {
-          "link": "/categories/ai",
-          "name": "Categories Single"
-        },
-        {
-          "link": "/privacy",
-          "name": "Privacy"
         }
       ]
     },
