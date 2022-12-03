@@ -2,14 +2,14 @@
   "metaData": {
     "title": "Qurno | Minimal NextJS Blog Template",
     "description": "Qurno - a minimal nextjs blog template",
-    "author": "Antonio Nardini",
+    "author": "Satyajeet Sindhiyani",
     "keyword": "qurno, minimal, react, nextjs, blog, template",
     "ogImage": "https://qurno-nextjs.vercel.app/images/ogimage.jpg"
   },
-  "baseURL": "https://qurno.preview.antonionardini.com/",
+  "baseURL": "https://isattu.com/",
   "logo": "https://res.cloudinary.com/antonio-nardini/image/upload/v1661166113/logo_mz8jua.png",
   "logoText": "Qurno",
   "favicon": "https://res.cloudinary.com/antonio-nardini/image/upload/v1661166119/favicon_kiwban.png",
-  "postPerPage": 6,
-  "copyright": "© 2022 Qurno. All rights reserved."
+  "postPerPage": 8,
+  "copyright": ""
 }

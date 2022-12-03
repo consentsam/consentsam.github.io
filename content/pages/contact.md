@@ -7,13 +7,13 @@ sections:
 - template: contact
   contact_info:
     title: Hate forms?<br>Write an email or make a call
-    email_address: contact@antonionardini.com
-    phone_number: '07899 743854'
+    email_address: samxan2014@gmail.com
+    phone_number: '9932271166'
   title: Contact Qurno
   content: I'm here to help and answer any question you might have. I look forward
     to hearing from you
   form:
-    action: contact@antonionardini.com
+    action: samxan2014@gmail.com
     fields:
     - template: textarea
       config:

@@ -10,11 +10,11 @@ export default function Footer() {
           <div className="row justify-content-center align-items-center">
             <div className="col-xl-6 col-lg-8 col-md-10">
               <div className="newsletter-block">
-                <h2 className="section-title text-center mb-4">
+                {/* <h2 className="section-title text-center mb-4">
                   {subscription.title}
-                </h2>
+                </h2> */}
 
-                <div id="mc_embed_signup">
+                {/* <div id="mc_embed_signup">
                   <form
                     action={subscription.mailChimpFormAction}
                     method="post"
@@ -75,7 +75,7 @@ export default function Footer() {
                       </div>
                     </div>
                   </form>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>
