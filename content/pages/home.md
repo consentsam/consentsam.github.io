@@ -1,5 +1,5 @@
 ---
-title: Home | Minimal NextJS Blog
+title: Home | Satyajeet's Blog
 description: This is a meta description
 sections:
 - template: banner
