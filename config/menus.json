@@ -21,6 +21,11 @@
       "name": "Archive"
     },
     {
+      "template": "nav-link",
+      "link": "/keccak512",
+      "name": "Keccak512"
+    },
+    {
       "template": "nav-dropdown",
       "link": "#",
       "name": "Pages",

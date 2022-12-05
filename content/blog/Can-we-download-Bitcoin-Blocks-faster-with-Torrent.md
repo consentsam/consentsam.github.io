@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Context
-
+<!-- Can-we-download-Bitcoin-Blocks-faster-with-Torrent? -->
 Today, when I was reading [Greg Walker](https://learnmeabitcoin.com/about) 's blog to understand some basics about Bitcoin and there I saw this line
 
 > Once you have downloaded and verified the full blockchain **(currently 389.74 GB)**, you can start making your own transactions, which propagate the network and are written to the blockchain on everyone’s computer.

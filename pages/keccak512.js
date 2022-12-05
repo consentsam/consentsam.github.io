@@ -17,7 +17,6 @@ export default function Home() {
   function getSecureKeccak512Hash(input_string) {
     return keccak_512(input_string).slice(0,36) + "@CTB";
   }
-
   return (
     <div>
     <form>
